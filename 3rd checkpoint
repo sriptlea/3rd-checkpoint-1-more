@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/sriptlea/blade-ball-loaded/main/LOAD?token=GHSAT0AAAAAACSRA2FD6SANWSF22OJADRWGZSL4Y5A")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/sriptlea/blade-ball-loaded/main/LOAD?token=GHSAT0AAAAAACSRA2FD6SANWSF22OJADRWGZSL4Y5A"))()
